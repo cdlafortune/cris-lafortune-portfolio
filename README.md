@@ -1,4 +1,6 @@
 # cris-lafortune-portfolio
-a clean, minimalist portfolio site
+Hi, I'm Cris, a full-stack web developer. 
 
-see it live at [crislafortune.com](https://crislafortune.com/)
+See this portfolio live at [crislafortune.com](https://crislafortune.com/)
+
+Design credit: [HTML5Up](https://html5up.net/)
